@@ -1,0 +1,8 @@
+echo "terraform.tfstate
+terraform.tfstate.backup
+.terraform/
+*.log
+.aws/
+.ssh/
+.vscode/
+.DS_Store" > .gitignore
